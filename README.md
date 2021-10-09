@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Introduction
 
 As an NFT owner, you have the right to copy, display, remix, and do other creative things with the character linked to your NFT, with minimal restrictions. Cool! Under this license, you can incorporate your NFT character into physical objects, write fan fiction, and even form creative DAOs. Let us know if you do! We’d love to hear about what you are building!
@@ -6,7 +8,7 @@ The license does not give you ownership of the underlying art, brand, or other i
 
 The General NFT License below is a legally binding agreement between you and us, so please review this document carefully before deciding whether to acquire a Savage Droids NFT.
 
-**BLOCK::BLOCK General NFT License**
+# BLOCK::BLOCK General NFT License
 
 **This General NFT License (the “License”) states the terms and conditions governing each NFT that is offered, sold, or transferred to any person (which may be an individual or an entity). If you sell, purchase, transfer, or acquire an NFT, you agree to be bound by the terms of this License.**
 
@@ -32,3 +34,13 @@ The General NFT License below is a legally binding agreement between you and us,
 3. **Transferring Your NFT.** You may sell or transfer your NFT, and upon such sale or transfer, your entire license to the Art and any associated rights will transfer to the new owner. The new owner will enjoy the license and any associated rights described in Section 3 above, provided that the new owner’s ownership of the NFT is cryptographically verifiable on the Ethereum blockchain.
 
 4. **Restrictions.** You agree to not use the Art in any way that is unlawful, pornographic, defamatory, abusive, harassing, obscene, libelous, harmful to minors, racist, sexist, homophobic, or otherwise objectionable to a reasonable person.
+
+---
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
